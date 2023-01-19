@@ -1,6 +1,9 @@
 # Changelog
 
-## v0.0.1
+## v0.0.2
 
-### Profile README setup.
+### Added Website and Libraries
 [~/README.md](/README.md)
+
+### Added `.gitignore`
+[~/.gitignore](/.gitignore)
