@@ -1,9 +1,6 @@
 # Changelog
 
-## v0.0.2
+## v0.0.3
 
-### Added Website and Libraries
+### Fixed website table
 [~/README.md](/README.md)
-
-### Added `.gitignore`
-[~/.gitignore](/.gitignore)
