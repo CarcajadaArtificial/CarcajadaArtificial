@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.0.6
+## v0.0.7
 
-### Added descriptions and rearranged projects
+### Added Typescript and Deno to the blog's. 
 [~/README.md](/README.md)
