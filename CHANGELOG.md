@@ -1,7 +1,6 @@
 # Changelog
 
-## v0.0.4
+## v0.0.5
 
-### Fixed emoji logos
+### Added websites description
 [~/README.md](/README.md)
-- Added engine table.
