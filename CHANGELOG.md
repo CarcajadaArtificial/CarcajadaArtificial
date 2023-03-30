@@ -1,6 +1,9 @@
 # Changelog
 
-## v0.0.7
+## v0.0.8
 
-### Added Typescript and Deno to the blog's. 
-[~/README.md](/README.md)
+### Minor updates
+  [~/.gitignore](/.gitignore)
+
+### Added Sass Door and GarliCSS
+  [~/README.md](/README.md)
