@@ -11,7 +11,7 @@
 
 | <img src="./images/pixie.svg" width="128" style="align-self: center;"/> | <img src="./images/stalecity.svg" width="128" style="margin: 0 auto;" /> |
 |---|---|
-| [Pixie](https://github.com/CarcajadaArtificial/pixie) | 📓 [Stale City Website](https://github.com/CarcajadaArtificial/stale-city-website) |
+| [Pixie](https://github.com/CarcajadaArtificial/pixie) | [Stale City](https://github.com/CarcajadaArtificial/stale-city-website) |
 
 ### Engines
 
