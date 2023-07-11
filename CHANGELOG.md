@@ -1,9 +1,8 @@
 # Changelog
 
-## v0.0.8
+## v0.0.9
 
-### Minor updates
-  [~/.gitignore](/.gitignore)
-
-### Added Sass Door and GarliCSS
-  [~/README.md](/README.md)
+### Added SVG logos to Pixie and Stale City
+  - `/images/pixie.svg`
+  - `/images/stalecity.svg`
+  - `/README.md`
