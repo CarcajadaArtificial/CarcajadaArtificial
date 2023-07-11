@@ -24,5 +24,5 @@ These are the projects that are meant to be used as a website. At the time of wr
 
 | [Pixie](https://github.com/CarcajadaArtificial/pixie) | 📓 [Stale City Website](https://github.com/CarcajadaArtificial/stale-city-website) |
 |---|---|
-| ![Pixie logo](./images/pixie.svg) | ![Stale City logo](./images/stalecity.svg). |
+| <img src="./images/pixie.svg" width="128" style="align-self: center;"/> | <img src="./images/stalecity.svg" width="128" style="margin: 0 auto;" /> |
 | Pixie filters an image into a PixelArt SVG. | A written log of my progress developing the Myrmex simulator. |

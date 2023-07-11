@@ -1,8 +1,6 @@
 # Changelog
 
-## v0.0.9
+## v0.0.10
 
-### Added SVG logos to Pixie and Stale City
-  - `/images/pixie.svg`
-  - `/images/stalecity.svg`
+### Minor Updates
   - `/README.md`
