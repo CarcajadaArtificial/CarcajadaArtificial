@@ -1,6 +1,7 @@
 # Changelog
 
-## v0.0.12
+## v0.0.13
 
-### Minor update
+### Removed Ana-Utils reference
+  - `/images/anautils.svg`
   - `/README.md`

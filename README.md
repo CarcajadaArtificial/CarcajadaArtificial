@@ -2,10 +2,9 @@
 
 ### Front-End Libraries
 
-| <img src="./images/lunchbox.svg" width="128" style="align-self: center;"/> | <img src="./images/anautils.svg" width="128" style="margin: 0 auto;" /> | <img src="./images/sassdoor.svg" width="128" style="align-self: center;"/> | <img src="./images/garlicss.svg" width="128" style="margin: 0 auto;" /> |
+| <img src="./images/lunchbox.svg" width="128" style="align-self: center;"/> | <img src="./images/sassdoor.svg" width="128" style="align-self: center;"/> | <img src="./images/garlicss.svg" width="128" style="margin: 0 auto;" /> |
 |---|---|---|---|
-| [Lunchbox](https://github.com/CarcajadaArtificial/ana-components) | [Ana Utils](https://github.com/CarcajadaArtificial/ana-utils) | [Sass Door](https://github.com/CarcajadaArtificial/sass-door) | [GarliCSS](https://github.com/CarcajadaArtificial/garlicss) |
-
+| [Lunchbox](https://github.com/CarcajadaArtificial/ana-components) | [Sass Door](https://github.com/CarcajadaArtificial/sass-door) | [GarliCSS](https://github.com/CarcajadaArtificial/garlicss) |
 
 ### Websites
 
